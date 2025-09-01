@@ -2,7 +2,8 @@
 
 موقع ويب تعريفي مبتكر بتصميم عصري وأنيق، يجمع بين الجماليات العصرية والأداء المتميز مع تأثيرات بصرية جذابة.
 
-![معاينة الموقع](https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80)
+![معاينة الموقع](<img width="1903" height="920" alt="image" src="https://github.com/user-attachments/assets/0dd88d7c-4d51-438d-8929-920cc1b98e7c" />
+)
 
 ## ✨ المميزات الرئيسية
 
