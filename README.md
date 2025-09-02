@@ -24,7 +24,7 @@
 
 1. **تنزيل الملفات**
    ```bash
-   git clone https://github.com/By-iNawaf/ndex.html
+   git clone https://github.com/By-iNawaf/index.html
 
 
 ## ⭐ إذا أعجبك المشروع، لا تنسى منحه نجمة على GitHub!
